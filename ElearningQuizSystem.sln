@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35219.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Quiz.Server", "Quiz.Server\Quiz.Server.csproj", "{4F40015E-0781-49BE-BCB5-591D903BCFAA}"
+EndProject
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "quiz.client", "quiz.client\quiz.client.esproj", "{FAC48E5C-1F51-4184-826E-2360EAC46E8E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4F40015E-0781-49BE-BCB5-591D903BCFAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F40015E-0781-49BE-BCB5-591D903BCFAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F40015E-0781-49BE-BCB5-591D903BCFAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F40015E-0781-49BE-BCB5-591D903BCFAA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FAC48E5C-1F51-4184-826E-2360EAC46E8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAC48E5C-1F51-4184-826E-2360EAC46E8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAC48E5C-1F51-4184-826E-2360EAC46E8E}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{FAC48E5C-1F51-4184-826E-2360EAC46E8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAC48E5C-1F51-4184-826E-2360EAC46E8E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FAC48E5C-1F51-4184-826E-2360EAC46E8E}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0C8E7D58-9053-44CA-B529-22E70C6F78F7}
+	EndGlobalSection
+EndGlobal

@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
 
-namespace ElearningQuizSystem.Api.DTOs
+namespace Quiz.Server.DTOs
 {
     public class CreateQuestionDTO
     {

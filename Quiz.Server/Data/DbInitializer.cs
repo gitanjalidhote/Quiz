@@ -1,19 +1,9 @@
-﻿//using Microsoft.EntityFrameworkCore;
-
-//namespace Quiz.Server.Data
-//{
-//    public class DbInitializer
-//    {
-//    }
-//}
-
-
-using Microsoft.EntityFrameworkCore;
+﻿using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.DependencyInjection;
 using System;
 using System.Linq;
 
-namespace ElearningQuizSystem.Api.Data
+namespace Quiz.Server.Data
 {
     public static class DbInitializer
     {
@@ -24,10 +14,10 @@ namespace ElearningQuizSystem.Api.Data
             {
                 if (context.Users.Any())
                 {
-                    return; // Database has been seeded
+                    return;
                 }
 
-                // Seed initial data here
+
                 context.SaveChanges();
             }
         }

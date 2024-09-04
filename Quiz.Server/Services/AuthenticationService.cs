@@ -1,13 +1,13 @@
-﻿using ElearningQuizSystem.Api.DTOs;
-using Microsoft.EntityFrameworkCore;
+﻿using Microsoft.EntityFrameworkCore;
 using Microsoft.IdentityModel.Tokens;
+using Quiz.Server.DTOs;
 using Quiz.Server.Models;
 using System.IdentityModel.Tokens.Jwt;
 using System.Security.Claims;
 using System.Security.Cryptography;
 using System.Text;
 
-namespace ElearningQuizSystem.Api.Services
+namespace Quiz.Server.Services
 {
     public class AuthenticationService
     {

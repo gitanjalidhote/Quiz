@@ -1,8 +1,8 @@
-﻿namespace ElearningQuizSystem.Api.DTOs
+﻿namespace Quiz.Server.DTOs
 {
     public class LoginUserDTO
     {
-        public string Email { get; set; }
-        public string Password { get; set; }
+        public required string Email { get; set; }
+        public required string Password { get; set; }
     }
 }

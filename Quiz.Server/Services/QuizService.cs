@@ -1,4 +1,4 @@
-﻿using ElearningQuizSystem.Api.DTOs;
+﻿using Quiz.Server.DTOs;
 using System.Threading.Tasks;
 
 namespace ElearningQuizSystem.Api.Services

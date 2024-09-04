@@ -1,7 +1,7 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using Quiz.Server.Models;
 
-namespace ElearningQuizSystem.Api.Data
+namespace Quiz.Server.Data
 {
     public class ElearningContext : DbContext
     {

@@ -1,23 +1,11 @@
 {
   "Version": 1,
-  "Hash": "vo4d60zoaINe3FtTtTUczqVuRoQ7q6SfBqq+NZAL1VE=",
+  "Hash": "isMF0IiF2f7oKDcgDtTs2OmPUn1rXyfg2j1L0/SoHgg=",
   "Source": "Quiz.Server",
   "BasePath": "_content/Quiz.Server",
   "Mode": "Default",
   "ManifestType": "Build",
-  "ReferencedProjectsConfiguration": [
-    {
-      "Identity": "C:\\Users\\gitanjali.dhote\\Desktop\\Quiz\\quiz.client\\quiz.client.esproj",
-      "Version": 2,
-      "Source": "quiz.client",
-      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
-      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
-      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained",
-      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
-      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
-      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained"
-    }
-  ],
+  "ReferencedProjectsConfiguration": [],
   "DiscoveryPatterns": [],
   "Assets": []
 }

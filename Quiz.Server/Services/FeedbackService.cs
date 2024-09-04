@@ -1,9 +1,9 @@
-﻿using ElearningQuizSystem.Api.DTOs;
+﻿using Quiz.Server.DTOs;
 using Quiz.Server.Models;
 using System;
 using System.Threading.Tasks;
 
-namespace ElearningQuizSystem.Api.Services
+namespace Quiz.Server.Services
 {
     public class FeedbackService
     {

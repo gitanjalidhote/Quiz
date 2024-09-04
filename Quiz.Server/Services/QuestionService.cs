@@ -1,8 +1,8 @@
-﻿using ElearningQuizSystem.Api.DTOs;
+﻿using Quiz.Server.DTOs;
 using System;
 using System.Threading.Tasks;
 
-namespace ElearningQuizSystem.Api.Services
+namespace Quiz.Server.Services
 {
     public class QuestionService
     {

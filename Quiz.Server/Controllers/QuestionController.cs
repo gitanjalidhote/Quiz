@@ -1,11 +1,11 @@
 ﻿
 
 using Microsoft.AspNetCore.Mvc;
-using ElearningQuizSystem.Api.Services;
-using ElearningQuizSystem.Api.DTOs;
 using System.Threading.Tasks;
+using Quiz.Server.DTOs;
+using Quiz.Server.Services;
 
-namespace ElearningQuizSystem.Api.Controllers
+namespace Quiz.Server.Controllers
 {
     [ApiController]
     [Route("api/[controller]")]
@@ -51,6 +51,6 @@ namespace ElearningQuizSystem.Api.Controllers
             return Ok(result);
         }
 
-       
+
     }
 }

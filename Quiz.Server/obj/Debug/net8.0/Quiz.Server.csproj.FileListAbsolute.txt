@@ -1,6 +1,8 @@
 C:\Users\gitanjali.dhote\Desktop\Quiz\Quiz.Server\bin\Debug\net8.0\spa.proxy.json
 C:\Users\gitanjali.dhote\Desktop\Quiz\Quiz.Server\bin\Debug\net8.0\appsettings.Development.json
 C:\Users\gitanjali.dhote\Desktop\Quiz\Quiz.Server\bin\Debug\net8.0\appsettings.json
+C:\Users\gitanjali.dhote\Desktop\Quiz\Quiz.Server\bin\Debug\net8.0\package-lock.json
+C:\Users\gitanjali.dhote\Desktop\Quiz\Quiz.Server\bin\Debug\net8.0\package.json
 C:\Users\gitanjali.dhote\Desktop\Quiz\Quiz.Server\bin\Debug\net8.0\Quiz.Server.exe
 C:\Users\gitanjali.dhote\Desktop\Quiz\Quiz.Server\bin\Debug\net8.0\Quiz.Server.deps.json
 C:\Users\gitanjali.dhote\Desktop\Quiz\Quiz.Server\bin\Debug\net8.0\Quiz.Server.runtimeconfig.json
@@ -123,6 +125,7 @@ C:\Users\gitanjali.dhote\Desktop\Quiz\Quiz.Server\obj\Debug\net8.0\Quiz.Server.A
 C:\Users\gitanjali.dhote\Desktop\Quiz\Quiz.Server\obj\Debug\net8.0\Quiz.Server.csproj.CoreCompileInputs.cache
 C:\Users\gitanjali.dhote\Desktop\Quiz\Quiz.Server\obj\Debug\net8.0\Quiz.Server.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\gitanjali.dhote\Desktop\Quiz\Quiz.Server\obj\Debug\net8.0\Quiz.Server.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\gitanjali.dhote\Desktop\Quiz\Quiz.Server\obj\Debug\net8.0\Quiz.Server.sourcelink.json
 C:\Users\gitanjali.dhote\Desktop\Quiz\Quiz.Server\obj\Debug\net8.0\staticwebassets.build.json
 C:\Users\gitanjali.dhote\Desktop\Quiz\Quiz.Server\obj\Debug\net8.0\staticwebassets.development.json
 C:\Users\gitanjali.dhote\Desktop\Quiz\Quiz.Server\obj\Debug\net8.0\staticwebassets\msbuild.Quiz.Server.Microsoft.AspNetCore.StaticWebAssets.props

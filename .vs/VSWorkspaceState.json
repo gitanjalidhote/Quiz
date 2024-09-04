@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Quiz.Server",
+    "\\Quiz.Server\\Controllers",
+    "\\Quiz.Server\\Data",
+    "\\Quiz.Server\\Services"
+  ],
+  "SelectedNode": "\\Quiz.Server\\Controllers\\AuthController.cs",
+  "PreviewInSolutionExplorer": false
+}
